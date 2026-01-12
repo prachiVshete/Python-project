@@ -1,1 +1,1 @@
-# Python-project
+# This is a light-hearted Python program that creates funny fake news headlines by randomly mixing subjects, actions, and everyday situations. Each time the program runs, it generates a new headline and asks the user if they want to create another one. It’s a beginner-friendly project that shows how random selection, loops, and user input work together in Python.
